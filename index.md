@@ -1,16 +1,37 @@
-<h3>解决Chrome更新失败</h3>
-<h4>1.查看错误信息</h4>
-<p>单击浏览器右上角“自定义及控制Google Chrome”按钮，选择“关于Google Chrome”，或者直接在浏览器地址栏中输入“chrome://chrome”。</p>
-<h4>2.打开chrome缓存目录</h4>
-<p>按Win+R，打开运行对话框，复制匹配自己系统的路径，回车打开缓存目录。<br>
-对于Windows XP/Server 2003，缓存目录位于：<br>
-%USERPROFILE%\Local Settings\Application Data\Google\Chrome\User Data\Default\Cache<br>	
-对于Windows Vista以上版本，包含服务器版本，缓存目录位于：<br>
-%USERPROFILE%\AppData\Local\Google\Chrome\User Data\Default\Cache</p>
-<h4>3.删除缓存目录中的文件</h4>
-<p>先关闭Chrome浏览器，按Ctrl+A全选文件，按Delete删除。如果提示有无法删除的文件，选择跳过。</p>
-<h4>4.再次打开浏览器更新页面</h4>
-<p>打开浏览器，在地址栏输入“chrome://chrome”，回车。</p>
-<h4>5.等待安装成功</h4>
-<p>当安装成功会，会提示重启浏览器，安装过程有时候会很慢。</p>
-<h4>6.重启浏览器</h4>
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/WZJJ/123/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WZJJ/123/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
