@@ -1,0 +1,24 @@
+Mac版
+
+在应用程序中找到XMind ZEN.app
+右键选择显示包内容
+进入/Contents/Resources/app/out/imgs/文件夹
+将该文件夹以下文件通过文本编辑TXT打开，删除文件中的内容。
+
+pdf-footer-zh-CN.svg
+png-watermark-zh-CN.svg
+print-watermark-zh-CN.svg
+
+在应用程序内找到文本编辑
+将文本中所有内容删除，保存。
+
+导出图片，图片正常显示无水印。
+
+Windows版
+
+Windows版同样，在XminZEN安装目录下，/resources/app/out/imgs/文件夹中
+通过文本编辑TXT打开以下文件，删除文件中的内容即可。
+
+pdf-footer-zh-CN.svg
+png-watermark-zh-CN.svg
+print-watermark-zh-CN.svg
